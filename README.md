@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DialDesk · AI Training & Certification
 
 ## What's new (UX release)
@@ -149,3 +150,6 @@ src/lib/live/*                               browser: Gemini Live WebSocket, aud
 | GET/PUT | `/api/settings/email`, POST `/api/settings/email/test` |
 | GET | `/api/analytics?process_id=&from=&to=` (overview, sections, parameters, pareto, processes, agents) |
 | POST | `/api/certifications/{id}/recertify` `{ send_email?, force? }` |
+=======
+# NewAICERTIFICATIONAGENT
+>>>>>>> 4b0bdff16af3dbc310539612cd0cfd49a3f87a19
