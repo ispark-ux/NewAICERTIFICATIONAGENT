@@ -1,0 +1,17 @@
+node_modules
+.next
+.env
+recordings/*
+!recordings/.gitkeep
+data/results/*
+!data/results/.gitkeep
+data/agents.json
+data/settings.json
+data/email_logs.json
+data/kb_documents.json
+data/scenarios.json
+data/pkt_blueprints.json
+data/pkt_attempts.json
+data/coaching_plans.json
+data/audit_log.json
+data/objects/
